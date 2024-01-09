@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+.idea/
+dist/
+
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+#database configs
+./src/database/config/config.json
+
+#firebase configs
+.firebaserc
+firebase.json
+.firebase
+firebase-debug.log
+y/
+
+pnpm-lock.yaml
+.vite

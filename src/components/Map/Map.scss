@@ -1,0 +1,15 @@
+.map {
+  width: 100%;
+}
+
+.map-markers {
+  &__popup-img {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+.leaflet-container {
+  border-radius: 8px;
+  height: 100%;
+}

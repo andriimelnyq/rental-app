@@ -1,0 +1,20 @@
+.modal-form {
+  &__file {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__file-img {
+    height: 35px;
+    width: 35px;
+  }
+
+  &__control {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+}
